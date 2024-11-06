@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Talhah</h1>
+<h1>Hi there, I'm Talhah 👋</h1>
 
 <h2>About me</h2>
 <p>I'm a computer science student at Toronto Metropolitan University.</p>
