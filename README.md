@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Talhah 👋</h1>
 
 <h2>About me</h2>
-<p>I'm a computer science student at Toronto Metropolitan University.</p>
+<p>I’m currently pursuing a BSc (Hons) in Computer Science at Toronto Metropolitan University, with a focus on Web Development, Software Engineering, and Artificial Intelligence. I’m passionate about problem-solving and enjoy collaborating on projects that challenge me to grow personally and professionally.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
